@@ -142,14 +142,7 @@ A web application that visualizes LeetCode statistics in a clean and interactive
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/krishnaBansal-the-dev">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/krishna-bansal-475a63359/">
+<a href="https://www.linkedin.com/in/krishna-bansal-475a63359/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -159,6 +152,11 @@ A web application that visualizes LeetCode statistics in a clean and interactive
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/krishnaBansal-the-dev">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
 </p>
 
 ---
