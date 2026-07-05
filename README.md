@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Krishna Bansal</h1>
+<h1 align="center">Hi 👋, I'm Krishna Bansal</h1>
 
 <h3 align="center">
 Aspiring Software Engineer • AI/ML Enthusiast • Web Developer
@@ -9,55 +9,29 @@ Aspiring Software Engineer • AI/ML Enthusiast • Web Developer
 </p>
 
 <p align="center">
-I love building intelligent software, solving challenging problems, and continuously exploring modern technologies in AI and Web Development.
+Building intelligent software through AI, Machine Learning, and modern Web Development.
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 👨‍💻 About Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/krishna-bansal-475a63359/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:krishnabansalp2007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-&nbsp;&nbsp;
-<a href="https://leetcode.com/u/KrishnaBansal_8549/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45" />
-</a>
-&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/Krishna154" target="_blank">
-<img src="https://cdn.simpleicons.org/codeforces" height="45" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/rishna3145" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" height="45" />
-</a>
-</p>
+🎓 **2nd Year B.Tech (Computer Science & Engineering)**  
+📍 **Motilal Nehru National Institute of Technology (MNNIT), Allahabad, India**
 
----
+I'm an aspiring **Software Engineer** passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Full-Stack Web Development**.
 
-# 🚀 About Me
-
-🎓 **2nd Year B.Tech (Computer Science & Engineering)** at **MNNIT Allahabad, India**
-
-💻 Aspiring **Software Engineer** passionate about creating impactful software and AI-powered applications.
-
-I enjoy combining **Machine Learning**, **Deep Learning**, and **Web Development** to build practical projects while continuously improving my problem-solving skills through Competitive Programming.
+I enjoy building real-world applications, exploring modern AI technologies, and solving algorithmic problems through Competitive Programming.
 
 ---
 
 # 🌱 Currently Learning
 
-* ⚛️ React
-* ▲ Next.js
-* 🤖 Retrieval-Augmented Generation (RAG)
-* 🦜 LangChain
-* 🧠 Deep Learning
-* 📚 Modern AI Application Development
+- ⚛️ React
+- ▲ Next.js
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 🦜 LangChain
+- 🧠 Deep Learning
 
 ---
 
@@ -75,18 +49,13 @@ I enjoy combining **Machine Learning**, **Deep Learning**, and **Web Development
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 </p>
 
-### AI & Machine Learning
+### AI / Machine Learning
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/ChromaDB-6F42C1?style=for-the-badge"/>
-
 </p>
 
 ### Tools
@@ -101,76 +70,142 @@ I enjoy combining **Machine Learning**, **Deep Learning**, and **Web Development
 
 ## 📚 StudyBuddy
 
-> **An AI-powered study assistant built using a Retrieval-Augmented Generation (RAG) pipeline.**
+> An AI-powered study assistant built using a **Retrieval-Augmented Generation (RAG)** pipeline.
 
-### Features
+### ✨ Features
 
-* 📄 Upload and process PDF documents
-* ✂️ Intelligent text chunking
-* 🧠 Semantic search using embeddings
-* 🤖 Context-aware AI responses
-* 📦 ChromaDB vector storage
-* ⚡ LangChain-powered retrieval pipeline
+- 📄 Upload and chat with PDF documents
+- 🧠 Semantic Search using vector embeddings
+- 🤖 Context-aware AI responses
+- 📦 ChromaDB vector database
+- ⚡ LangChain-powered retrieval pipeline
 
 **Tech Stack**
 
 `Python` • `LangChain` • `ChromaDB` • `RAG`
 
+<p>
+<a href="https://github.com/krishnaBansal-the-dev/StudyBuddy">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 ## 🌦️ WeatherInfo
 
-A responsive weather application built with **React** that provides real-time weather information using a Weather API.
+A responsive weather application built using **React** that fetches real-time weather information.
 
-### Features
+### ✨ Features
 
-* 🔍 Search weather by city
-* 🌡️ Live temperature
-* 💧 Humidity
-* 🌬️ Wind speed
-* ☁️ Weather conditions
-* 📱 Responsive interface
+- 🌍 Search weather by city
+- 🌡️ Live temperature
+- 💧 Humidity
+- 🌬️ Wind Speed
+- ☁️ Weather Conditions
+- 📱 Responsive UI
 
 **Tech Stack**
 
-`React` • `JavaScript` • `Weather API`
+`React` • `JavaScript` • `OpenWeather API`
+
+<p>
+<a href="https://github.com/krishnaBansal-the-dev/WeatherInfo">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📈 LeetMetric
+## 📊 LeetMetric
 
-A clean web application that visualizes LeetCode statistics in an intuitive way.
+A web application that visualizes LeetCode statistics in a clean and interactive interface.
 
-### Features
+### ✨ Features
 
-* 📊 Easy / Medium / Hard question statistics
-* 👤 User performance overview
-* 💻 Responsive interface
+- 📈 Easy / Medium / Hard statistics
+- 👤 User performance overview
+- 💻 Responsive design
 
 **Tech Stack**
 
 `HTML` • `CSS` • `JavaScript`
 
+<p>
+<a href="https://github.com/krishnaBansal-the-dev/leetcode-metrics-app">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/krishnaBansal-the-dev">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/krishna-bansal-475a63359/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:krishnabansalp2007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Competitive Programming
+
+<p align="center">
+
+<a href="https://leetcode.com/u/KrishnaBansal_8549/">
+<img src="https://cdn.simpleicons.org/leetcode" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/Krishna154">
+<img src="https://cdn.simpleicons.org/codeforces" height="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.codechef.com/users/rishna3145">
+<img src="https://cdn.simpleicons.org/codechef" height="50"/>
+</a>
+
+</p>
+
 ---
 
 # 🎯 Career Goals
 
-* 🤖 Become an exceptional Software Engineer
-* 🧠 Build intelligent AI applications
-* 📚 Master Machine Learning & Deep Learning
-* 🌍 Contribute to Open Source
-* 🚀 Keep learning modern technologies
-* 💡 Solve real-world problems through software
+- 🤖 Become an exceptional Software Engineer
+- 🧠 Master Machine Learning & Deep Learning
+- 🚀 Build impactful AI-powered applications
+- 🌍 Contribute to Open Source
+- 💡 Solve real-world problems through software
 
 ---
 
 # 💭 Philosophy
 
-> *"Learning never stops. Every project is an opportunity to become a better engineer."*
+> **"Learning never stops. Every project is an opportunity to become a better engineer."**
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
 
 <p align="center">
 Let's build something amazing together 🚀
