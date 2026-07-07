@@ -19,10 +19,10 @@ I enjoy building real-world applications, exploring modern AI technologies, and 
 
 # 🌱 Currently Learning
 
-- ⚛️ React
-- ▲ Next.js
-- 🤖 Retrieval-Augmented Generation (RAG)
-- 🦜 LangChain
+- ⚛️ [React](https://react.dev/)
+- ▲ [Next.js](https://nextjs.org/)
+- 🤖 [Retrieval-Augmented Generation (RAG)](https://python.langchain.com/docs/concepts/rag/)
+- 🦜 [LangChain](https://python.langchain.com/)
 - 🧠 Deep Learning
 
 ---
@@ -32,28 +32,37 @@ I enjoy building real-world applications, exploring modern AI technologies, and 
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"/></a>
+<a href="https://en.cppreference.com/w/cpp"><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/></a>
 </p>
 
 ## Web Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" alt="Next.js"/></a>
 </p>
 
 ## AI / Machine Learning
 
 <p align="center">
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-6F42C1?style=for-the-badge"/>
+<a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+<a href="https://python.langchain.com/"><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" alt="LangChain"/></a>
+<a href="https://docs.trychroma.com/"><img src="https://img.shields.io/badge/ChromaDB-6F42C1?style=for-the-badge" alt="ChromaDB"/></a>
 </p>
 
 ## Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code"/></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" title="Linux" alt="Linux"/></a>
 </p>
 
 ---
